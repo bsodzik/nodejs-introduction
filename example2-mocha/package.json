@@ -1,0 +1,16 @@
+{
+  "name": "intro",
+  "version": "0.0.2",
+  "description": "Introduction to Node.js",
+  "scripts": {
+    "start": "node lib/app"
+  },
+  "devDependencies": {
+    "grunt": "0.4.2",
+    "grunt-contrib-jshint": "0.8.0",
+	"grunt-mocha-test": "0.9.0",
+	"should": "3.1.2"
+  },
+  "author": "bsodzik",
+  "license": "BSD-2-Clause"
+}
