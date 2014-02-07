@@ -1,0 +1,10 @@
+{
+  "name": "intro",
+  "version": "0.0.1",
+  "description": "Introduction to Node.js",
+  "scripts": {
+    "start": "node lib/app"
+  },
+  "author": "bsodzik",
+  "license": "BSD-2-Clause"
+}

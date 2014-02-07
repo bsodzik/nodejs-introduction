@@ -1,0 +1,10 @@
+{
+  "name": "intro",
+  "version": "0.0.4",
+  "description": "Introduction to Node.js",
+  "dependencies": {
+    "deferred": "0.6.8"
+  },
+  "author": "bsodzik",
+  "license": "BSD-2-Clause"
+}
