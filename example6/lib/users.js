@@ -1,14 +1,14 @@
 ﻿'use strict';
 
 module.exports = {
-	tp70527: {
-		name: "Tomasz",
-		surname: "Przybyła",
-		school: "Poznań University of Technology"
+	jm101: {
+		name: "Janko",
+		surname: "Muzykant",
+		school: "I have no idea"
 	},
-	pk70506: {
-		name: "Paweł",
-		surname: "Koziorowski",
-		school: "Poznań University of Economics"
+	ax303: {
+		name: "Antek",
+		surname: "WhoKnowsThat",
+		school: "WhoKnowsThat??"
 	}
 };
